@@ -18,4 +18,8 @@ func main() {
 		fmt.Printf("a[%d] = %d\n", i, *ptr[i])
 	}
 
+	//num := 1
+	//numPtr := &num
+	//numPtr++
+
 }
